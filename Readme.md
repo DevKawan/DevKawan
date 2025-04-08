@@ -1,7 +1,6 @@
 # Olá, eu sou o **Kawan Franklin** 👋
 
 ![GIF de introdução](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG1wdXFnZHUwNmxsMGZraDVnaG8zZHg3anZvOXAzNTE0cnBhbGpzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vS9OEreb3nVNNjZw6s/giphy.gif)
-
 Desenvolvedor de software focado em **Frontend**.  
 Apaixonado por **tecnologia, aprender novas linguagens de programação e academia!**
 
