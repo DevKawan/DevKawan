@@ -15,7 +15,7 @@ Apaixonado por **tecnologia e aprender novas linguagens de programação!**
 
 ## 💻 Projetos Principais:
 
-- [Portfólio Pessoal](https://devkawan.github.io/portifoliov1/): Portfólio pessoal. Ainda em andamento.
+- [Portfólio Pessoal](https://kawanfranklin.web.app): Portfólio pessoal. Ainda em andamento.
 - [Site de declaração](https://clara-e-andressa.web.app): Site que fiz para um casal.
 
 ## 📊 Estatísticas GitHub:
